@@ -45,7 +45,7 @@ The downloaded model parameters will be saved into <u>`checkpoint`</u>, includin
 │   ├── nq_cross_encoder_large                   # Cross-encoder model on NQ (MC of step 2)
 │   ├── nq_dual_encoder_v2                       # Dual-encoder model on NQ (MD2 of step 4, the final model)
 ```
-For a quick start, you can perform experiments from the fine-tuned checkpoints (i.e. skipping the first two steps).
+For a quick start, you can perform experiments from the fine-tuned checkpoints (i.e. skipping the first two steps of the training pipeline).
 
 ## Training
 ### Data processing
